@@ -2,6 +2,19 @@
   "baseUrl": "https://pub-6f58ce2c173542c6ae4695938da98377.r2.dev",
   "books": [
     {
+      "id": "990",
+      "className": "New Class",
+      "subject": "New Subject",
+      "bookName": "New Book Name",
+      "language": "English",
+      "board": "NCERT",
+      "folder": "New_Folder_Name",
+      "files": [
+        "file1.pdf",
+        "file2.pdf"
+      ]
+    },
+    {
       "id": "999",
       "className": "New Class",
       "subject": "New Subject",
