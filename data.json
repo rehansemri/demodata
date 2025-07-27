@@ -14,18 +14,7 @@
         "AIPMT_1999.pdf",
         "AIPMT_2000.pdf"
       ]
-    },
-    {
-      "id": "19f342dd",
-      "className": "Class 12A",
-      "subject": "Nothig",
-      "bookName": "Papers",
-      "language": "English",
-      "board": "NCERT",
-      "folder": "AIPMT_1999",
-      "files": [
-        "AIPMT_1999.pdf"
-      ]
     }
+   
   ]
 }
