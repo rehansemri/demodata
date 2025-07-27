@@ -2,6 +2,18 @@
   "baseUrl": "https://pub-6f58ce2c173542c6ae4695938da98377.r2.dev",
   "books": [
     {
+      "id": "28c513e3",
+      "className": "dkjhgdj",
+      "subject": "djhgsdjg",
+      "bookName": "dgjdhg",
+      "language": "English",
+      "board": "NCERT",
+      "folder": "AIPMT_1999",
+      "files": [
+        "AIPMT_1999.pdf"
+      ]
+    },
+    {
       "id": "990",
       "className": "New Class",
       "subject": "New Subject",
