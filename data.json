@@ -1,4 +1,17 @@
 {
   "baseUrl": "https://pub-dd023896e72e48fab1946eee312438ba.r2.dev",
-  "books":[]
+  "books": [
+    {
+      "id": "19f342dd",
+      "className": "Class 12A",
+      "subject": "Nothig",
+      "bookName": "Papers",
+      "language": "English",
+      "board": "NCERT",
+      "folder": "AIPMT_1999",
+      "files": [
+        "AIPMT_1999.pdf"
+      ]
+    }
+  ]
 }
