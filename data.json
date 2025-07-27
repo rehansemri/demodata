@@ -2,6 +2,20 @@
   "baseUrl": "https://pub-dd023896e72e48fab1946eee312438ba.r2.dev",
   "books": [
     {
+      "id": "069b30e1",
+      "className": "NEET Exam Papers",
+      "subject": "NEET",
+      "bookName": "NEET Exam Papers",
+      "language": "English",
+      "board": "NCERT",
+      "folder": "NEET_EXAM_PAPERS",
+      "files": [
+        "AIPMT_1998.pdf",
+        "AIPMT_1999.pdf",
+        "AIPMT_2000.pdf"
+      ]
+    },
+    {
       "id": "19f342dd",
       "className": "Class 12A",
       "subject": "Nothig",
